@@ -1,4 +1,4 @@
-Projeto Base React
+user-crud-web
 ==================
 
 Utilize o VSCode, já está configurado com sugestão de extensões.

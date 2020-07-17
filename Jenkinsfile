@@ -14,7 +14,7 @@ node {
     }
 
     stage ('Build container') {
-        app = docker.build("%DOCKER-IMAGE%", "-f ./prod/Dockerfile .")
+        app = docker.build("waproject/user-crud-web", "-f ./prod/Dockerfile .")
     }
 
      stage('Publish to DockerHub') {

@@ -1,0 +1,11 @@
+{
+  "project": "user-crud-web",
+  "repository": "",
+  "endpointDev": "http://localhost:3001",
+  "endpointProd": "",
+  "dockerImage": "waproject/user-crud-web",
+  "dockerCredentials": "",
+  "sentryDsn": "",
+  "confirmed": true,
+  "slug": "user-crud-web"
+}
